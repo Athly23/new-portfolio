@@ -44,7 +44,7 @@ class About extends Component {
           </div>
           <div className="programming">
             <p>
-              HTML | CSS | Javascript | React Express | Python | Django |
+              HTML | CSS | Javascript | React | Express | Python | Django |
               MongoDB | Mongoose | SQL | Peewee
             </p>
           </div>

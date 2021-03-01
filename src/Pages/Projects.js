@@ -18,7 +18,7 @@ class Projects extends Component {
           project_img={CN_joke}
           description="This is a full MERN project. The user is able to retrieve a random joke, create a joke which was stored, and delete a joke. The frontend was built with Javascript and CSS, the backend was built with Mongoose and Express."
           github="https://github.com/Athly23/chuck-norris-project7"
-          site="http://chuck-norris-jokes1.netlify.app"
+          site="https://chuck-norris-jokes1.netlify.app"
         />
         <Projectcontent
           title="Python Contact Book"
