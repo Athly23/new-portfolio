@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import pdf from "./Pictures/Andrew_resume.jpg";
 
 class Resume extends Component {
   render() {
