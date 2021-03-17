@@ -20,7 +20,7 @@ class Home extends Component {
           </div>
         </div>
         <div className="title">
-          <h1>Software Engineer</h1>
+          <h1>Software</h1>
         </div>
 
         <div className="bio">
