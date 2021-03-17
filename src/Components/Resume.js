@@ -6,7 +6,7 @@ class Resume extends Component {
     return (
       <div>
         <a
-          href="https://docs.google.com/document/d/1Rod90JVxwBtrxPw-Xenov_VCaorl2W26LcdAYkfg37Y/edit?usp=sharing"
+          href="https://docs.google.com/document/d/13cIELRE-HFa1btAVgWrzqvd21zn58tGjkDYwH_2foq0/edit?usp=sharing"
           rel="noopener noreferrer"
           target="_blank"
         ></a>
