@@ -4,6 +4,7 @@ import Pythoncontactbook from "../Components/Pictures/Pythoncontactbook.jpg";
 import triva_game from "../Components/Pictures/triva_game.jpg";
 import UI_Pattern from "../Components/Pictures/UI_Pattern.jpg";
 import Projectcontent from "../Components/Projectcontent.js";
+import easy from "../Components/Pictures/easy.png";
 import "../Pages/Projects.css";
 
 class Projects extends Component {
@@ -13,6 +14,13 @@ class Projects extends Component {
         {/* <div className="project-title">
           <h1>Projects</h1>
         </div> */}
+        <Projectcontent
+          title="Easy Peasy Math"
+          project_img={easy}
+          description="Written in vanilla js, html and CSS. This is a simple math game built for both kids and adults as a way to jump start their day. Mainly it is a free way for unprivileged kids to get some kind of free education"
+          github="https://github.com/Athly23/easy-peasy-math"
+          site="https://relaxed-stonebraker-adcf34.netlify.app/"
+        />
         <Projectcontent
           title="Chuck Norris Jokes"
           project_img={CN_joke}
